@@ -142,8 +142,7 @@ print(f"12(get): {valueDict}")
 #13
 key = list(my_dict.keys()) 
 thirdKey = key[2]  
-thirdValue = my_dict[thirdKey] 
-print(f"13: {thirdValue}")  
+print(f"13: {my_dict[thirdKey]}")  
 
 
 print("----")
